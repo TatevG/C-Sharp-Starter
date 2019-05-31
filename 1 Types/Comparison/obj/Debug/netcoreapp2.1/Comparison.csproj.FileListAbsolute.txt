@@ -1,0 +1,10 @@
+/Users/tigran/Desktop/MyFirstConsoleApp/Comparison/obj/Debug/netcoreapp2.1/Comparison.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/MyFirstConsoleApp/Comparison/obj/Debug/netcoreapp2.1/Comparison.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/MyFirstConsoleApp/Comparison/obj/Debug/netcoreapp2.1/Comparison.AssemblyInfo.cs
+/Users/tigran/Desktop/MyFirstConsoleApp/Comparison/bin/Debug/netcoreapp2.1/Comparison.deps.json
+/Users/tigran/Desktop/MyFirstConsoleApp/Comparison/bin/Debug/netcoreapp2.1/Comparison.runtimeconfig.json
+/Users/tigran/Desktop/MyFirstConsoleApp/Comparison/bin/Debug/netcoreapp2.1/Comparison.runtimeconfig.dev.json
+/Users/tigran/Desktop/MyFirstConsoleApp/Comparison/bin/Debug/netcoreapp2.1/Comparison.dll
+/Users/tigran/Desktop/MyFirstConsoleApp/Comparison/bin/Debug/netcoreapp2.1/Comparison.pdb
+/Users/tigran/Desktop/MyFirstConsoleApp/Comparison/obj/Debug/netcoreapp2.1/Comparison.dll
+/Users/tigran/Desktop/MyFirstConsoleApp/Comparison/obj/Debug/netcoreapp2.1/Comparison.pdb

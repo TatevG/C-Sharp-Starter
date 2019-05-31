@@ -1,0 +1,11 @@
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/Casting/bin/Debug/netcoreapp2.1/002_Casting.deps.json
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/Casting/bin/Debug/netcoreapp2.1/002_Casting.runtimeconfig.json
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/Casting/bin/Debug/netcoreapp2.1/002_Casting.runtimeconfig.dev.json
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/Casting/bin/Debug/netcoreapp2.1/002_Casting.dll
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/Casting/bin/Debug/netcoreapp2.1/002_Casting.pdb
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/Casting/obj/Debug/netcoreapp2.1/002_Casting.csprojAssemblyReference.cache
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/Casting/obj/Debug/netcoreapp2.1/002_Casting.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/Casting/obj/Debug/netcoreapp2.1/002_Casting.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/Casting/obj/Debug/netcoreapp2.1/002_Casting.AssemblyInfo.cs
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/Casting/obj/Debug/netcoreapp2.1/002_Casting.dll
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/Casting/obj/Debug/netcoreapp2.1/002_Casting.pdb

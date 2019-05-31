@@ -1,0 +1,11 @@
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/ConditionSelfWork/bin/Debug/netcoreapp2.1/ConditionSelfWork_001.deps.json
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/ConditionSelfWork/bin/Debug/netcoreapp2.1/ConditionSelfWork_001.runtimeconfig.json
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/ConditionSelfWork/bin/Debug/netcoreapp2.1/ConditionSelfWork_001.runtimeconfig.dev.json
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/ConditionSelfWork/bin/Debug/netcoreapp2.1/ConditionSelfWork_001.dll
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/ConditionSelfWork/bin/Debug/netcoreapp2.1/ConditionSelfWork_001.pdb
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/ConditionSelfWork/obj/Debug/netcoreapp2.1/ConditionSelfWork_001.csprojAssemblyReference.cache
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/ConditionSelfWork/obj/Debug/netcoreapp2.1/ConditionSelfWork_001.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/ConditionSelfWork/obj/Debug/netcoreapp2.1/ConditionSelfWork_001.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/ConditionSelfWork/obj/Debug/netcoreapp2.1/ConditionSelfWork_001.AssemblyInfo.cs
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/ConditionSelfWork/obj/Debug/netcoreapp2.1/ConditionSelfWork_001.dll
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/ConditionSelfWork/obj/Debug/netcoreapp2.1/ConditionSelfWork_001.pdb

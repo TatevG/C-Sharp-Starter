@@ -1,0 +1,10 @@
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/015_CoffeMaker/bin/Debug/netcoreapp2.1/015_CoffeMaker.deps.json
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/015_CoffeMaker/bin/Debug/netcoreapp2.1/015_CoffeMaker.runtimeconfig.json
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/015_CoffeMaker/bin/Debug/netcoreapp2.1/015_CoffeMaker.runtimeconfig.dev.json
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/015_CoffeMaker/bin/Debug/netcoreapp2.1/015_CoffeMaker.dll
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/015_CoffeMaker/bin/Debug/netcoreapp2.1/015_CoffeMaker.pdb
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/015_CoffeMaker/obj/Debug/netcoreapp2.1/015_CoffeMaker.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/015_CoffeMaker/obj/Debug/netcoreapp2.1/015_CoffeMaker.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/015_CoffeMaker/obj/Debug/netcoreapp2.1/015_CoffeMaker.AssemblyInfo.cs
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/015_CoffeMaker/obj/Debug/netcoreapp2.1/015_CoffeMaker.dll
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/2 Conditions/015_CoffeMaker/obj/Debug/netcoreapp2.1/015_CoffeMaker.pdb

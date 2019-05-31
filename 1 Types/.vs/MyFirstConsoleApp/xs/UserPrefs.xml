@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{EBE5583D-AA4E-466A-BEBB-8E1BAC9F2F95}|Default">
+  <MonoDevelop.Ide.ItemProperties.015__StringFormat FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TypesSelfWork__001 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TypesSelfWork__003 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.004__MathPow FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.013__CheckedUnChecked FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TypesHomeWork_004/Program.cs">
+    <Files>
+      <File FileName="TypesHomeWork_003/Program.cs" Line="11" Column="14" />
+      <File FileName="TypesHomeWork/Program.cs" Line="3" Column="24" />
+      <File FileName="002_TypesHomeWork/Program.cs" Line="3" Column="24" />
+      <File FileName="TypesHomeWork_004/Program.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstConsoleApp" expanded="True">
+            <Node name="TypesSelfWork_001" expanded="True" />
+            <Node name="TypesSelfWork_002" expanded="True" />
+            <Node name="TypesSelfWork_003" expanded="True" />
+            <Node name="TypesSelfWork_004" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.012__UnChecked FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.005__MathSqrt FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.018__Var FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.011__Checked FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.019__Comparison FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.016__FlagFormating FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.009__LocalVariables FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TypesSelfWork__004 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.002__Casting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.017__Sizeof FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.006__Comparison PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.007__IncDec PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.010__At FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.008__Assignement FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.003__Arithmetic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.014__Concatenation FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.001__Constant PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TypesSelfWork__002 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

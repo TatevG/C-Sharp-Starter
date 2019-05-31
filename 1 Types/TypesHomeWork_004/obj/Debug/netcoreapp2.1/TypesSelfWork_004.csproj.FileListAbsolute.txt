@@ -1,0 +1,11 @@
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/TypesHomeWork_004/bin/Debug/netcoreapp2.1/TypesSelfWork_004.deps.json
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/TypesHomeWork_004/bin/Debug/netcoreapp2.1/TypesSelfWork_004.runtimeconfig.json
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/TypesHomeWork_004/bin/Debug/netcoreapp2.1/TypesSelfWork_004.runtimeconfig.dev.json
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/TypesHomeWork_004/bin/Debug/netcoreapp2.1/TypesSelfWork_004.dll
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/TypesHomeWork_004/bin/Debug/netcoreapp2.1/TypesSelfWork_004.pdb
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/TypesHomeWork_004/obj/Debug/netcoreapp2.1/TypesSelfWork_004.csprojAssemblyReference.cache
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/TypesHomeWork_004/obj/Debug/netcoreapp2.1/TypesSelfWork_004.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/TypesHomeWork_004/obj/Debug/netcoreapp2.1/TypesSelfWork_004.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/TypesHomeWork_004/obj/Debug/netcoreapp2.1/TypesSelfWork_004.AssemblyInfo.cs
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/TypesHomeWork_004/obj/Debug/netcoreapp2.1/TypesSelfWork_004.dll
+/Users/tigran/Desktop/C#/01 [ITVDN] C# Starter/1 Types/TypesHomeWork_004/obj/Debug/netcoreapp2.1/TypesSelfWork_004.pdb

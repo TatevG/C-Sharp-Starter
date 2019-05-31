@@ -1,0 +1,10 @@
+/Users/tigran/Desktop/MyFirstConsoleApp/IncDec/bin/Debug/netcoreapp2.1/IncDec.deps.json
+/Users/tigran/Desktop/MyFirstConsoleApp/IncDec/bin/Debug/netcoreapp2.1/IncDec.runtimeconfig.json
+/Users/tigran/Desktop/MyFirstConsoleApp/IncDec/bin/Debug/netcoreapp2.1/IncDec.runtimeconfig.dev.json
+/Users/tigran/Desktop/MyFirstConsoleApp/IncDec/bin/Debug/netcoreapp2.1/IncDec.dll
+/Users/tigran/Desktop/MyFirstConsoleApp/IncDec/bin/Debug/netcoreapp2.1/IncDec.pdb
+/Users/tigran/Desktop/MyFirstConsoleApp/IncDec/obj/Debug/netcoreapp2.1/IncDec.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/MyFirstConsoleApp/IncDec/obj/Debug/netcoreapp2.1/IncDec.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/MyFirstConsoleApp/IncDec/obj/Debug/netcoreapp2.1/IncDec.AssemblyInfo.cs
+/Users/tigran/Desktop/MyFirstConsoleApp/IncDec/obj/Debug/netcoreapp2.1/IncDec.dll
+/Users/tigran/Desktop/MyFirstConsoleApp/IncDec/obj/Debug/netcoreapp2.1/IncDec.pdb
