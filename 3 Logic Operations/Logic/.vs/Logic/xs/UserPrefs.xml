@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{83B15556-4023-40E0-B836-99D60E628985}|Default">
+  <MonoDevelop.Ide.ItemProperties.008__ShortLogicComputing FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.001__Logic FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="009_DeMorganTheorems/Program.cs">
+    <Files>
+      <File FileName="Logic/Program.cs" Line="103" Column="1" />
+      <File FileName="002_Port/Program.cs" Line="12" Column="15" />
+      <File FileName="003_Cypher/Program.cs" Line="10" Column="17" />
+      <File FileName="004_Logic/Program.cs" Line="20" Column="40" />
+      <File FileName="005_Logic/Program.cs" Line="34" Column="1" />
+      <File FileName="LogicShift/Program.cs" Line="5" Column="21" />
+      <File FileName="007_ShortLogicComputing/Program.cs" Line="37" Column="1" />
+      <File FileName="008_ShortLogicComputing/Program.cs" Line="37" Column="1" />
+      <File FileName="009_DeMorganTheorems/Program.cs" Line="47" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Logic" expanded="True">
+            <Node name="003_Cypher" expanded="True" />
+            <Node name="004_Logic" expanded="True" />
+            <Node name="005_Logic" expanded="True" />
+            <Node name="006_LogicShift" expanded="True" />
+            <Node name="007_ShortLogicComputing" expanded="True" />
+            <Node name="008_ShortLogicComputing" expanded="True" />
+            <Node name="009_DeMorganTheorems" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.007__ShortLogicComputing FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.004__Logic FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.002__Port FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.003__Cypher FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.006__LogicShift FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.009__DeMorganTheorems FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.005__Logic FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
