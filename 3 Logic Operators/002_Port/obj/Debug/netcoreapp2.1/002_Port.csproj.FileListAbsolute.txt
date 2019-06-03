@@ -1,0 +1,11 @@
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/002_Port/bin/Debug/netcoreapp2.1/002_Port.deps.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/002_Port/bin/Debug/netcoreapp2.1/002_Port.runtimeconfig.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/002_Port/bin/Debug/netcoreapp2.1/002_Port.runtimeconfig.dev.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/002_Port/bin/Debug/netcoreapp2.1/002_Port.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/002_Port/bin/Debug/netcoreapp2.1/002_Port.pdb
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/002_Port/obj/Debug/netcoreapp2.1/002_Port.csprojAssemblyReference.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/002_Port/obj/Debug/netcoreapp2.1/002_Port.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/002_Port/obj/Debug/netcoreapp2.1/002_Port.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/002_Port/obj/Debug/netcoreapp2.1/002_Port.AssemblyInfo.cs
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/002_Port/obj/Debug/netcoreapp2.1/002_Port.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/002_Port/obj/Debug/netcoreapp2.1/002_Port.pdb

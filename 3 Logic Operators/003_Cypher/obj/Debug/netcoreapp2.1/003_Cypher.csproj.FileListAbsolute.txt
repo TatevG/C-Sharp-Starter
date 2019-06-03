@@ -1,0 +1,11 @@
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/003_Cypher/bin/Debug/netcoreapp2.1/003_Cypher.deps.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/003_Cypher/bin/Debug/netcoreapp2.1/003_Cypher.runtimeconfig.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/003_Cypher/bin/Debug/netcoreapp2.1/003_Cypher.runtimeconfig.dev.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/003_Cypher/bin/Debug/netcoreapp2.1/003_Cypher.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/003_Cypher/bin/Debug/netcoreapp2.1/003_Cypher.pdb
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/003_Cypher/obj/Debug/netcoreapp2.1/003_Cypher.csprojAssemblyReference.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/003_Cypher/obj/Debug/netcoreapp2.1/003_Cypher.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/003_Cypher/obj/Debug/netcoreapp2.1/003_Cypher.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/003_Cypher/obj/Debug/netcoreapp2.1/003_Cypher.AssemblyInfo.cs
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/003_Cypher/obj/Debug/netcoreapp2.1/003_Cypher.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/003_Cypher/obj/Debug/netcoreapp2.1/003_Cypher.pdb

@@ -1,0 +1,11 @@
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/LogicShift/bin/Debug/netcoreapp2.1/006_LogicShift.deps.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/LogicShift/bin/Debug/netcoreapp2.1/006_LogicShift.runtimeconfig.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/LogicShift/bin/Debug/netcoreapp2.1/006_LogicShift.runtimeconfig.dev.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/LogicShift/bin/Debug/netcoreapp2.1/006_LogicShift.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/LogicShift/bin/Debug/netcoreapp2.1/006_LogicShift.pdb
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/LogicShift/obj/Debug/netcoreapp2.1/006_LogicShift.csprojAssemblyReference.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/LogicShift/obj/Debug/netcoreapp2.1/006_LogicShift.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/LogicShift/obj/Debug/netcoreapp2.1/006_LogicShift.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/LogicShift/obj/Debug/netcoreapp2.1/006_LogicShift.AssemblyInfo.cs
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/LogicShift/obj/Debug/netcoreapp2.1/006_LogicShift.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/LogicShift/obj/Debug/netcoreapp2.1/006_LogicShift.pdb

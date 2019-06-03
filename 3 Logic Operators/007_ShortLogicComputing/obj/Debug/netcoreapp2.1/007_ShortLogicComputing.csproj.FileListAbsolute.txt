@@ -1,0 +1,11 @@
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/007_ShortLogicComputing/bin/Debug/netcoreapp2.1/007_ShortLogicComputing.deps.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/007_ShortLogicComputing/bin/Debug/netcoreapp2.1/007_ShortLogicComputing.runtimeconfig.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/007_ShortLogicComputing/bin/Debug/netcoreapp2.1/007_ShortLogicComputing.runtimeconfig.dev.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/007_ShortLogicComputing/bin/Debug/netcoreapp2.1/007_ShortLogicComputing.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/007_ShortLogicComputing/bin/Debug/netcoreapp2.1/007_ShortLogicComputing.pdb
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/007_ShortLogicComputing/obj/Debug/netcoreapp2.1/007_ShortLogicComputing.csprojAssemblyReference.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/007_ShortLogicComputing/obj/Debug/netcoreapp2.1/007_ShortLogicComputing.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/007_ShortLogicComputing/obj/Debug/netcoreapp2.1/007_ShortLogicComputing.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/007_ShortLogicComputing/obj/Debug/netcoreapp2.1/007_ShortLogicComputing.AssemblyInfo.cs
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/007_ShortLogicComputing/obj/Debug/netcoreapp2.1/007_ShortLogicComputing.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/3 Logic Operations/007_ShortLogicComputing/obj/Debug/netcoreapp2.1/007_ShortLogicComputing.pdb
