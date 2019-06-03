@@ -1,0 +1,10 @@
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/LoopsSelfWork_003/bin/Debug/netcoreapp2.1/LoopsSelfWork_003.deps.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/LoopsSelfWork_003/bin/Debug/netcoreapp2.1/LoopsSelfWork_003.runtimeconfig.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/LoopsSelfWork_003/bin/Debug/netcoreapp2.1/LoopsSelfWork_003.runtimeconfig.dev.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/LoopsSelfWork_003/bin/Debug/netcoreapp2.1/LoopsSelfWork_003.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/LoopsSelfWork_003/bin/Debug/netcoreapp2.1/LoopsSelfWork_003.pdb
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/LoopsSelfWork_003/obj/Debug/netcoreapp2.1/LoopsSelfWork_003.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/LoopsSelfWork_003/obj/Debug/netcoreapp2.1/LoopsSelfWork_003.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/LoopsSelfWork_003/obj/Debug/netcoreapp2.1/LoopsSelfWork_003.AssemblyInfo.cs
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/LoopsSelfWork_003/obj/Debug/netcoreapp2.1/LoopsSelfWork_003.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/LoopsSelfWork_003/obj/Debug/netcoreapp2.1/LoopsSelfWork_003.pdb

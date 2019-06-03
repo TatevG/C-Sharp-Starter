@@ -1,0 +1,10 @@
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/015_ForInFor/bin/Debug/netcoreapp2.1/015_ForInFor.deps.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/015_ForInFor/bin/Debug/netcoreapp2.1/015_ForInFor.runtimeconfig.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/015_ForInFor/bin/Debug/netcoreapp2.1/015_ForInFor.runtimeconfig.dev.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/015_ForInFor/bin/Debug/netcoreapp2.1/015_ForInFor.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/015_ForInFor/bin/Debug/netcoreapp2.1/015_ForInFor.pdb
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/015_ForInFor/obj/Debug/netcoreapp2.1/015_ForInFor.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/015_ForInFor/obj/Debug/netcoreapp2.1/015_ForInFor.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/015_ForInFor/obj/Debug/netcoreapp2.1/015_ForInFor.AssemblyInfo.cs
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/015_ForInFor/obj/Debug/netcoreapp2.1/015_ForInFor.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/4 Loops/015_ForInFor/obj/Debug/netcoreapp2.1/015_ForInFor.pdb
