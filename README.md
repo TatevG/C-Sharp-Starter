@@ -9,5 +9,5 @@ Here is a simple guide about how to start to learn C#. Here is simple examples a
 
 
 [Types]: <https://github.com/TatevG/C-Sharp-Starter/tree/master/1%20Types>
-[Types]: <https://github.com/TatevG/C-Sharp-Starter/tree/master/2%20Conditions>
-[Types]: <https://github.com/TatevG/C-Sharp-Starter/tree/master/3%20Logic%20Operators>
+[Conditions]: <https://github.com/TatevG/C-Sharp-Starter/tree/master/2%20Conditions>
+[Logic Operators]: <https://github.com/TatevG/C-Sharp-Starter/tree/master/3%20Logic%20Operators>
