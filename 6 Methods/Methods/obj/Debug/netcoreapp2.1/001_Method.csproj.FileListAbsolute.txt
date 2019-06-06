@@ -1,0 +1,11 @@
+/Users/tigran/Desktop/C#/C-Sharp-Starter/6 Methods/Methods/bin/Debug/netcoreapp2.1/001_Method.deps.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/6 Methods/Methods/bin/Debug/netcoreapp2.1/001_Method.runtimeconfig.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/6 Methods/Methods/bin/Debug/netcoreapp2.1/001_Method.runtimeconfig.dev.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/6 Methods/Methods/bin/Debug/netcoreapp2.1/001_Method.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/6 Methods/Methods/bin/Debug/netcoreapp2.1/001_Method.pdb
+/Users/tigran/Desktop/C#/C-Sharp-Starter/6 Methods/Methods/obj/Debug/netcoreapp2.1/001_Method.csprojAssemblyReference.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/6 Methods/Methods/obj/Debug/netcoreapp2.1/001_Method.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/6 Methods/Methods/obj/Debug/netcoreapp2.1/001_Method.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/6 Methods/Methods/obj/Debug/netcoreapp2.1/001_Method.AssemblyInfo.cs
+/Users/tigran/Desktop/C#/C-Sharp-Starter/6 Methods/Methods/obj/Debug/netcoreapp2.1/001_Method.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/6 Methods/Methods/obj/Debug/netcoreapp2.1/001_Method.pdb

@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{5AC1BC5C-3070-4386-87D6-7C713A652A2B}|Default">
+  <MonoDevelop.Ide.ItemProperties.007__Method FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.001__Method FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.008__Method FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Program.cs">
+    <Files>
+      <File FileName="Methods/Program.cs" Line="14" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Methods" expanded="True">
+            <Node name="001_Method" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="002_Method" expanded="True" />
+            <Node name="003_Method" expanded="True" />
+            <Node name="004_Method" expanded="True" />
+            <Node name="005_Method" expanded="True" />
+            <Node name="006_Method" expanded="True" />
+            <Node name="007_Method" expanded="True" />
+            <Node name="008_Method" expanded="True" />
+            <Node name="009_Method" expanded="True" />
+            <Node name="010_Method" expanded="True" />
+            <Node name="011_Method" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.009__Method FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.011__Method FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.010__Method FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.003__Method FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.004__Method FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.006__Method FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.002__Method FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.005__Method FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
