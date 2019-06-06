@@ -1,18 +1,19 @@
-﻿<Properties StartupConfiguration="{5AC1BC5C-3070-4386-87D6-7C713A652A2B}|Default">
+﻿<Properties StartupConfiguration="{C3BD51AD-CD48-45AF-93C7-A51D222E4CBE}|Default">
   <MonoDevelop.Ide.ItemProperties.007__Method FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.001__Method FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.001__Method PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.008__Method FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodsSelfWork_003/Program.cs">
     <Files>
-      <File FileName="Methods/Program.cs" Line="14" Column="10" />
+      <File FileName="004_Method/Program.cs" Line="2" Column="1" />
+      <File FileName="MethodsSelfWork_001/Program.cs" Line="22" Column="39" />
+      <File FileName="MethodsSelfWork_002/Program.cs" Line="3" Column="26" />
+      <File FileName="MethodsSelfWork_003/Program.cs" Line="3" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Methods" expanded="True">
-            <Node name="001_Method" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="001_Method" expanded="True" />
             <Node name="002_Method" expanded="True" />
             <Node name="003_Method" expanded="True" />
             <Node name="004_Method" expanded="True" />
@@ -23,6 +24,11 @@
             <Node name="009_Method" expanded="True" />
             <Node name="010_Method" expanded="True" />
             <Node name="011_Method" expanded="True" />
+            <Node name="MethodsSelfWork_001" expanded="True" />
+            <Node name="MethodsSelfWork_002" expanded="True" />
+            <Node name="MethodsSelfWork_003" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -38,8 +44,10 @@
   <MonoDevelop.Ide.ItemProperties.002__Method FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.005__Method FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MethodsSelfWork__002 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MethodsSelfWork__001 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
