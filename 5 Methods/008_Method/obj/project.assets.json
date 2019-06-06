@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tigran/Desktop/C#/C-Sharp-Starter/Methods/008_Method/008_Method.csproj",
+      "projectUniqueName": "/Users/tigran/Desktop/C#/C-Sharp-Starter/5 Methods/008_Method/008_Method.csproj",
       "projectName": "008_Method",
-      "projectPath": "/Users/tigran/Desktop/C#/C-Sharp-Starter/Methods/008_Method/008_Method.csproj",
+      "projectPath": "/Users/tigran/Desktop/C#/C-Sharp-Starter/5 Methods/008_Method/008_Method.csproj",
       "packagesPath": "/Users/tigran/.nuget/packages/",
-      "outputPath": "/Users/tigran/Desktop/C#/C-Sharp-Starter/Methods/008_Method/obj/",
+      "outputPath": "/Users/tigran/Desktop/C#/C-Sharp-Starter/5 Methods/008_Method/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
