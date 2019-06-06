@@ -16,4 +16,4 @@ Here is a simple guide about how to start to learn C#. Here is simple examples a
 [Logic Operators]: <https://github.com/TatevG/C-Sharp-Starter/tree/master/3%20Logic%20Operators>
 [Loops]: <https://github.com/TatevG/C-Sharp-Starter/tree/master/4%20Loops>
 [Methods]: <https://github.com/TatevG/C-Sharp-Starter/tree/master/5%20Methods>
-[Methods]: <https://github.com/TatevG/C-Sharp-Starter/tree/master/4%20Loops>
+[Methods]: <https://github.com/TatevG/C-Sharp-Starter/tree/master/6%20Methods>
