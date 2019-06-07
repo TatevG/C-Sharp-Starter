@@ -1,0 +1,10 @@
+/Users/tigran/Desktop/C#/C-Sharp-Starter/7 Arrays/006_Arrays/bin/Debug/netcoreapp2.1/006_Arrays.deps.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/7 Arrays/006_Arrays/bin/Debug/netcoreapp2.1/006_Arrays.runtimeconfig.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/7 Arrays/006_Arrays/bin/Debug/netcoreapp2.1/006_Arrays.runtimeconfig.dev.json
+/Users/tigran/Desktop/C#/C-Sharp-Starter/7 Arrays/006_Arrays/bin/Debug/netcoreapp2.1/006_Arrays.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/7 Arrays/006_Arrays/bin/Debug/netcoreapp2.1/006_Arrays.pdb
+/Users/tigran/Desktop/C#/C-Sharp-Starter/7 Arrays/006_Arrays/obj/Debug/netcoreapp2.1/006_Arrays.csproj.CoreCompileInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/7 Arrays/006_Arrays/obj/Debug/netcoreapp2.1/006_Arrays.AssemblyInfoInputs.cache
+/Users/tigran/Desktop/C#/C-Sharp-Starter/7 Arrays/006_Arrays/obj/Debug/netcoreapp2.1/006_Arrays.AssemblyInfo.cs
+/Users/tigran/Desktop/C#/C-Sharp-Starter/7 Arrays/006_Arrays/obj/Debug/netcoreapp2.1/006_Arrays.dll
+/Users/tigran/Desktop/C#/C-Sharp-Starter/7 Arrays/006_Arrays/obj/Debug/netcoreapp2.1/006_Arrays.pdb

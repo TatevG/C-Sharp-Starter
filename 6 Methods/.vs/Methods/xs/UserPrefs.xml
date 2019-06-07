@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{C3BD51AD-CD48-45AF-93C7-A51D222E4CBE}|Default">
+﻿<Properties StartupConfiguration="{76465FFB-E55E-411A-8BE5-FEC4F56888E0}|Default">
   <MonoDevelop.Ide.ItemProperties.007__Method FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.001__Method PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.008__Method FirstBuild="True" />
@@ -7,7 +7,7 @@
       <File FileName="004_Method/Program.cs" Line="2" Column="1" />
       <File FileName="MethodsSelfWork_001/Program.cs" Line="22" Column="39" />
       <File FileName="MethodsSelfWork_002/Program.cs" Line="3" Column="26" />
-      <File FileName="MethodsSelfWork_003/Program.cs" Line="3" Column="11" />
+      <File FileName="MethodsSelfWork_003/Program.cs" Line="25" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -26,9 +26,6 @@
             <Node name="011_Method" expanded="True" />
             <Node name="MethodsSelfWork_001" expanded="True" />
             <Node name="MethodsSelfWork_002" expanded="True" />
-            <Node name="MethodsSelfWork_003" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
           </Node>
         </State>
       </Pad>
@@ -40,6 +37,7 @@
   <MonoDevelop.Ide.ItemProperties.003__Method FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.004__Method FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.006__Method FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MethodsSelfWork__003 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.002__Method FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.005__Method FirstBuild="True" />

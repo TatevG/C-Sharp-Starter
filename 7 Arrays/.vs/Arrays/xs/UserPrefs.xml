@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{E030C52F-8D6E-48AC-B5D4-FF9DAC655FF1}|Default">
+  <MonoDevelop.Ide.ItemProperties.018__Params FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.009__TwoDimentionalArrays FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.013__FourDimensional FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.016__Jagged FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.012__ThreeDimensional FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="019_Arrays/Program.cs">
+    <Files>
+      <File FileName="013_Arrays/Program.cs" Line="56" Column="1" />
+      <File FileName="014_Arrays/Program.cs" Line="46" Column="1" />
+      <File FileName="015_Arrays/Program.cs" Line="36" Column="1" />
+      <File FileName="016_Arrays/Program.cs" Line="36" Column="1" />
+      <File FileName="017_Arrays/Program.cs" Line="35" Column="1" />
+      <File FileName="018_Arrays/Program.cs" Line="26" Column="1" />
+      <File FileName="019_Arrays/Program.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arrays" expanded="True">
+            <Node name="019_Arrays" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.017__MethodWithArray FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.015__Jagged FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.010__OneElement FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.014__FourDimensional FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.019__Params FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.011__ThreeDimensional FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.001__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
