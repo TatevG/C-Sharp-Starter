@@ -9,6 +9,7 @@ Here is a simple guide about how to start to learn C#. Here is simple examples a
   - [Loops]
   - [Methods]
   - [Methods]
+  - [Arrays]
 
 
 [Types]: <https://github.com/TatevG/C-Sharp-Starter/tree/master/1%20Types>
